@@ -1,5 +1,8 @@
 # virus-host-classification
 
+### Beszámoló
+Virus_host_detection.pdf
+
 ### To run
 1. Download dataset from https://www.kaggle.com/datasets/jakabcsatri/viruses-ncbi
 2. Unzip files to data folder
